@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Elizabeth
 
-- 🔭 I’m currently working on a personal finance application
+- 🔭 I’m currently working on a personal finance management application
 - 🌱 I’m currently learning ReactNative
 - 👯 I’m looking to collaborate on exciting projects, just hit me up
 - 💬 Ask me about python and computer science theory ish
