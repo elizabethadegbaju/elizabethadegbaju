@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Elizabeth
 
-- 🔭 I’m currently working on a personal finance management application
+<!-- - 🔭 I’m currently working on a personal finance management application (on hold) -->
 - 🌱 I’m currently learning ReactNative
 - 👯 I’m looking to collaborate on exciting projects, just hit me up
-- 💬 Ask me about python and computer science theory ish
+- 💬 Ask me about AWS, GCP, programming
 - 📫 How to reach me: Instagram @elizabethadegbaju
 - 😄 Pronouns: She/Her
 <!-- - 🤔 I’m looking for help with ... -->
