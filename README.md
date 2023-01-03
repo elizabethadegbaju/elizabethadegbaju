@@ -2,13 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
 
-- 🔭 I’m currently working on a personal finance management application (on hold)
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on exciting projects, just hit me up
-- 💬 Ask me about AWS, GCP, programming
-- 📫 How to reach me: Instagram @elizabethadegbaju
-- 😄 Pronouns: She/Her
-
+I am a software engineer in Munich who has always been interested in system analysis and design, software architectures, cloud computing, algorithms, and complexity analysis. My hobbies outside tech include reading, playing the piano, and playing games.
 
 #### 📫 How to reach me
 In English, Yoruba😜 or very basic German...
