@@ -32,14 +32,14 @@ In English, Yoruba😜 or very basic German...
 </p>
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+- [elizabethadegbaju/crystalims](https://github.com/elizabethadegbaju/crystalims) - Completed ✔ | A cloud based MRO inventory management system deployed on google app engine. B2B system (7 months ago)
+- [elizabethadegbaju/remoteCalc](https://github.com/elizabethadegbaju/remoteCalc) - A simple web service to implement a calculator (10 months ago)
+- [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) -  (11 months ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+
 
 #### ✨ Stats
 
@@ -49,17 +49,15 @@ In English, Yoruba😜 or very basic German...
 [![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 #### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+
+- [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) - 
+- [elizabethadegbaju/adventofcode2021](https://github.com/elizabethadegbaju/adventofcode2021) - 
+- [elizabethadegbaju/switch-network](https://github.com/elizabethadegbaju/switch-network) - 
+- [elizabethadegbaju/remoteCalc](https://github.com/elizabethadegbaju/remoteCalc) - A simple web service to implement a calculator
+- [elizabethadegbaju/CBA](https://github.com/elizabethadegbaju/CBA) - A core Banking Application developed using Onion Architecture
 
 
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: ... -->
-<!-- # -->
-<!-- <a href="https://github.com/elizabethadegbaju">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=elizabethadegbaju&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/elizabethadegbaju">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethadegbaju&layout=compact&show_icons=true&theme=synthwave" />
-</a> -->
+
+
+
+
