@@ -38,15 +38,14 @@ In English, Yoruba😜 or very basic German...
 - [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) -  (11 months ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (11 months ago)
 
-#### 🔭 Latest releases I've contributed to
-
 
 #### ✨ Stats
-
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/elizabethadegbaju">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=elizabethadegbaju&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/elizabethadegbaju">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethadegbaju&layout=compact&show_icons=true&theme=synthwave" />
+</a>
 
 #### 🌱 My latest projects
 
