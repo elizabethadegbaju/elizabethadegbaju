@@ -36,17 +36,18 @@ In English, Yoruba😜 or very basic German...
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+<!-- #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
+-->
 #### ✨ Stats
-
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/elizabethadegbaju/elizabethadegbaju/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/elizabethadegbaju">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=elizabethadegbaju&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/elizabethadegbaju">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethadegbaju&layout=compact&show_icons=true&theme=synthwave" />
+</a>
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
@@ -57,9 +58,4 @@ In English, Yoruba😜 or very basic German...
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- # -->
-<!-- <a href="https://github.com/elizabethadegbaju">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=elizabethadegbaju&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/elizabethadegbaju">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethadegbaju&layout=compact&show_icons=true&theme=synthwave" />
-</a> -->
+<!--  -->
