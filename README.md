@@ -31,7 +31,7 @@ In English, Yoruba😜 or very basic German...
 
 - [elizabethadegbaju/crystalims](https://github.com/elizabethadegbaju/crystalims) - Completed ✔ | A cloud based MRO inventory management system deployed on google app engine. B2B system (7 months ago)
 - [elizabethadegbaju/remoteCalc](https://github.com/elizabethadegbaju/remoteCalc) - A simple web service to implement a calculator built using Python/Django. The service offers an endpoint that reads a string input and parses it. it decodes the base64 encoding and interprets it by breaking it down into smaller statements and solved following the order of precedence. It returns either an HTTP error code, or a correct solution. (10 months ago)
-- [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) - React native practice project (11 months ago)
+- [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) - React native practice project (1 year ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 year ago)
 
 
