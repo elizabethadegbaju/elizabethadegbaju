@@ -30,7 +30,7 @@ In English, Yoruba😜 or very basic German...
 #### 👷 Check out what I'm currently working on
 
 - [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (1 month ago)
-- [elizabethadegbaju/crystalims](https://github.com/elizabethadegbaju/crystalims) - Completed ✔ | A cloud based MRO inventory management system deployed on google app engine. B2B system (11 months ago)
+- [elizabethadegbaju/crystalims](https://github.com/elizabethadegbaju/crystalims) - Completed ✔ | A cloud based MRO inventory management system deployed on google app engine. B2B system (1 year ago)
 
 
 #### ✨ Stats
