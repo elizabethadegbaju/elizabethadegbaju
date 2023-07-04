@@ -29,7 +29,7 @@ In English, Yoruba😜 or very basic German...
 
 #### 👷 Check out what I'm currently working on
 
-- [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (2 months ago)
+- [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (3 months ago)
 
 
 #### ✨ Stats
