@@ -29,6 +29,7 @@ In English, Yoruba😜 or very basic German...
 
 #### 👷 Check out what I'm currently working on
 
+- [elizabethadegbaju/Bug-Busters](https://github.com/elizabethadegbaju/Bug-Busters) - Team Repo for Freudenberg Challenge (today)
 - [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (3 months ago)
 
 
@@ -42,11 +43,11 @@ In English, Yoruba😜 or very basic German...
 
 #### 🌱 My latest projects
 
+- [elizabethadegbaju/Bug-Busters](https://github.com/elizabethadegbaju/Bug-Busters) - Team Repo for Freudenberg Challenge
 - [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK
 - [elizabethadegbaju/GloboTicket](https://github.com/elizabethadegbaju/GloboTicket) - React native practice project
 - [elizabethadegbaju/adventofcode2021](https://github.com/elizabethadegbaju/adventofcode2021) - 
 - [elizabethadegbaju/switch-network](https://github.com/elizabethadegbaju/switch-network) - switch blockchain project
-- [elizabethadegbaju/remoteCalc](https://github.com/elizabethadegbaju/remoteCalc) - A simple web service to implement a calculator built using Python/Django. The service offers an endpoint that reads a string input and parses it. it decodes the base64 encoding and interprets it by breaking it down into smaller statements and solved following the order of precedence. It returns either an HTTP error code, or a correct solution.
 
 
 
