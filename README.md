@@ -29,7 +29,6 @@ In English, Yoruba😜 or very basic German...
 
 #### 👷 Check out what I'm currently working on
 
-- [elizabethadegbaju/edulinelms](https://github.com/elizabethadegbaju/edulinelms) - Completed ✔ | A cloud based library management system built with Django. Deployed on app engine with cloud sql, cloud storages and cron jobs running on app engine. (3 days ago)
 - [elizabethadegbaju/eniolaLMS](https://github.com/elizabethadegbaju/eniolaLMS) - CBLMS (3 days ago)
 - [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (3 months ago)
 
