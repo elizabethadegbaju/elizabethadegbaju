@@ -13,8 +13,16 @@ In English, Yoruba😜 or very basic German...
 #### 🛠 Languages and Tools
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br />
  
 </p>
