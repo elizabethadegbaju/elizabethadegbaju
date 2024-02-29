@@ -23,7 +23,7 @@ In English, Yoruba😜 or very basic German...
 
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers &amp; organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire (5 months ago)
 - [elizabethadegbaju/eniolaLMS](https://github.com/elizabethadegbaju/eniolaLMS) - CBLMS (7 months ago)
-- [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (10 months ago)
+- [elizabethadegbaju/CDK-Airflow-on-Fargate](https://github.com/elizabethadegbaju/CDK-Airflow-on-Fargate) - Deployment of Airflow on Fargate with AWS Python CDK (11 months ago)
 
 
 #### ✨ Stats
