@@ -22,7 +22,6 @@ In English, Yoruba😜 or very basic German...
 #### 👷 Check out what I'm currently working on
 
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers &amp; organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire (10 months ago)
-- [elizabethadegbaju/eniolaLMS](https://github.com/elizabethadegbaju/eniolaLMS) - CBLMS (1 year ago)
 
 
 #### ✨ Stats
