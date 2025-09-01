@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Elizabeth
 
-<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
+<img align="right" src="" width="260">
 
 I am a software engineer in Munich who has always been interested in system analysis and design, software architectures, cloud computing, algorithms, and complexity analysis. My hobbies outside tech include reading, playing the piano, and playing games.
 
